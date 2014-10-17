@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pne:home|Door43 (pne)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pne|d43-pne repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pne/archive/master.zip|d43-pne.zip]]
+
+**Recent Changes**
+{{changes>ns = pne}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pne|Ethnologue data]]
+
